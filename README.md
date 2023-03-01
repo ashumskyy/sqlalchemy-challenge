@@ -2,9 +2,9 @@
 
 # In this Module 10 Challenge we had two parts: 
 
-**- Analyze and Explore the Climate Data
+** - Analyze and Explore the Climate Data
 
-**- Design Your Climate App
+** - Design Your Climate App
 
 
 
@@ -43,5 +43,5 @@ from the start date to the end date, inclusive.
 
 # BONUS! 
 
-**PLEASE NOTICE THAT I ADDED sqlite3app.py FILE WHERE WE USED sqlite3app.py LIBRARY INSTEAD OF SQLALCHEMY. 
+** PLEASE NOTICE THAT I ADDED sqlite3app.py FILE WHERE WE USED sqlite3app.py LIBRARY INSTEAD OF SQLALCHEMY. 
 
