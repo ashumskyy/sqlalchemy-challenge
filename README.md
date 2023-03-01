@@ -43,5 +43,5 @@ from the start date to the end date, inclusive.
 
 # BONUS! 
 
-** PLEASE NOTICE THAT I ADDED sqlite3app.py FILE WHERE WE USED sqlite3app.py LIBRARY INSTEAD OF SQLALCHEMY. 
+** PLEASE NOTICE THAT I ADDED sqlite3app.py FILE WHERE I USED sqlite3app.py LIBRARY INSTEAD OF SQLALCHEMY. 
 
