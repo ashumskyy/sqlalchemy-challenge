@@ -8,7 +8,7 @@
 
 
 
-In Part 1 use Python and SQLAlchemy to do a basic climate analysis and data exploration 
+In **Part 1** use Python and SQLAlchemy to do a basic climate analysis and data exploration 
 of provided climate database. Specifically, we used SQLAlchemy ORM queries, Pandas, and Matplotlib. 
 
 We started by connecting to SQLite database. Then we used SQLAlchemy automap_base() function to reflect the tables into classes, 
@@ -27,7 +27,7 @@ At the end we closed our session.
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-In Part 2 we designed a Flask API based on the queries that we just developed. After connecting to our Data Base by using SQLalchemy, 
+In **Part 2** we designed a Flask API based on the queries that we just developed. After connecting to our Data Base by using SQLalchemy, 
 we created a Homepage where we can see a list of all the available routs. First three are links which led us to:
 /api/v1.0/precipitation - a query results from the precipitation analysis,
 /api/v1.0/stations - list of stations from the dataset,
