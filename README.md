@@ -1,9 +1,9 @@
 # sqlalchemy-challenge
 
-In this Module 10 Challenge we had two parts: 
+# In this Module 10 Challenge we had two parts: 
 
-- Analyze and Explore the Climate Data
-- Design Your Climate App
+**- Analyze and Explore the Climate Data
+**- Design Your Climate App
 
 
 
@@ -24,7 +24,7 @@ on the most-active station id found in the previous query, and created another q
 of temperature observation (TOBS) data. At last we plotted a histogram with 12 bins (12 months).
 At the end we closed our session. 
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 In Part 2 we designed a Flask API based on the queries that we just developed. After connecting to our Data Base by using SQLalchemy, 
 we created a Homepage where we can see a list of all the available routs. First three are links which led us to:
@@ -40,7 +40,7 @@ from the start date to the end date, inclusive.
 
 
 
-BONUS! 
+# BONUS! 
 
-PLEASE NOTICE THAT I ADDED sqlite3app.py FILE WHERE WE USED sqlite3app.py LIBRARY INSTEAD OF SQLALCHEMY. 
+**PLEASE NOTICE THAT I ADDED sqlite3app.py FILE WHERE WE USED sqlite3app.py LIBRARY INSTEAD OF SQLALCHEMY. 
 
